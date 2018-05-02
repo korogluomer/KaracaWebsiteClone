@@ -1,0 +1,1 @@
+-Kategori silme silinen kategorinin Alt kategorileirini de silme

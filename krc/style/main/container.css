@@ -1,0 +1,52 @@
+.container{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+.container div{
+    margin-top: 20px;
+}
+.slider img{
+    max-width: 100%;
+}
+.home{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.ikili{
+    display: flex;
+    justify-content: space-between;
+}
+.ikili div{
+    padding: 0;
+    margin: 0;
+    max-width: 49%;
+}
+.ikili div img{
+    max-width: 100%;
+}
+.pankart{
+    text-align: center;
+    border-top: 5px dotted #eee;
+    border-bottom: 5px dotted #eee;
+    width: 100%;
+    padding: 10px;
+}
+.pankart p{
+    font-size: 200%;
+    color: #aaa;
+}
+.uclu{
+    display: flex;
+    justify-content: space-between;
+}
+.uclu div{
+    padding: 0;
+    margin: 0;
+    max-width: 32%;
+}
+.uclu div img{
+    max-width: 100%;
+}

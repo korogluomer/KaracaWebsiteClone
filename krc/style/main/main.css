@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "Galano Grotesque";
+    src: url('../fonts/Galano Grotesque.otf') format("opentype");
+    }
+body{
+    font-family: Galano Grotesque, Helvetica Neue, Helvetica, Arial, "sans-serif", serif;
+    font-size: 13px;
+    line-height: 1.5;
+    color: #333333;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+div{
+    display: flex;
+}
+div *{
+    margin: auto;
+}
+*{
+    box-sizing: border-box;
+}
+.main-container{
+    display: block;
+    width: 70%;
+}

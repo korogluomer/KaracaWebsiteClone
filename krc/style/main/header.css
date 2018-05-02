@@ -1,0 +1,55 @@
+.notifications{
+    background: #eee;
+    height: 30px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+.notiRight ul{
+    list-style: none;
+    margin: 0px;
+}
+.notiRight ul li{
+    float: left;
+    padding-left: 5px;      
+}
+.hcontainer{
+    height: 30px;
+    margin: auto;
+    height: auto;
+    width: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    align-content: center;
+}
+.row{
+    display: flex;
+    width: 1250px;
+}
+.hcontainer .row ul{
+    list-style: none;
+    margin-right: 20px;
+    padding: 15px;
+}
+.hcontainer .row ul li{
+    float: left;
+    padding-left: 15px;
+}
+
+.hcontainer .row ul li:hover a{
+    margin-bottom: 500px;
+}
+
+
+#main_img{
+    float: left;
+    margin-left: 5px;
+}
+input{
+    float: left;
+    width: 320px;
+    height: 30px;
+    padding-left: 10px;
+}
